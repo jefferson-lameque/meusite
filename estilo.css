@@ -1,0 +1,32 @@
+body{
+	background: #F5F6CE;
+	color: black;
+	margin: 0;
+	text-decoration: #FACC2E;
+
+}
+h1{
+	color: #3ADF00;
+}
+h3{
+	color: #0040FF;
+}
+
+#menu ul{
+	margin: 0;
+	background-color: black;
+	list-style: none;
+}
+#menu ul li{
+	display: inline;
+}
+#menu ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+#menu ul li a:hover{
+	color: yellow;
+
+}
